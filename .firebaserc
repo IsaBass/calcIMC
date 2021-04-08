@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "chatonlineflt"
+  },
+  "targets": {
+    "chatonlineflt": {
+      "hosting": {
+        "calcimc": [
+          "mycalcimc"
+        ]
+      }
+    }
+  }
+}

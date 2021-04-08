@@ -1,0 +1,4 @@
+
+
+# comando para criar target: firebase target:apply hosting calcimc  mycalcimc
+# comando para deploy: firebase deploy --only hosting:calcimc
