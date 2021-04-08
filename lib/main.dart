@@ -48,7 +48,7 @@ class _HomeState extends State<Home> {
       } else if (imc >= 40) {
         _infotext = "Obesidade Grau III";
       }
-      _infotext = _infotext + " (${imc.toStringAsPrecision(3)})";
+      _infotext = "- IMC: ${imc.toStringAsPrecision(3)} -\n $_infotext";
     });
   }
 
@@ -77,6 +77,7 @@ class _HomeState extends State<Home> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.stretch,
             children: <Widget>[
+              SizedBox(height: 20),
               Icon(
                 Icons.person_outline,
                 size: 120.0,
@@ -91,7 +92,7 @@ class _HomeState extends State<Home> {
                 style: TextStyle(color: Colors.green, fontSize: 25.0),
                 controller: weightController,
                 validator: (value) {
-                  if(value.isEmpty) {
+                  if (value.isEmpty) {
                     return "Insira seu Peso";
                   }
                 },
@@ -104,7 +105,7 @@ class _HomeState extends State<Home> {
                   textAlign: TextAlign.center,
                   style: TextStyle(color: Colors.blue, fontSize: 25.0),
                   controller: heightController,
-                  validator: (value){
+                  validator: (value) {
                     if (value.isEmpty) {
                       return "Insira sua Altura";
                     }
