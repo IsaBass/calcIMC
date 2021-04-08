@@ -1,5 +1,7 @@
 # app02_calculadora_imc
 
+- [Link do projeto no Firebase Hosting](https://mycalcimc.web.app/)
+
 A new Flutter project.
 
 ## Getting Started
