@@ -1,20 +1,22 @@
 # App Calculadora IMC
 #### App desenvolvido como requisito do curso [Criação de Apps Android e iOS com Flutter - Daniel Ciolfi](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/)
-
 <br>
 
-💬 [Meu linkedin](https://www.linkedin.com/in/isaias-gon%C3%A7alves-igs/)
+##### Experimente este projeto na web [Click Aqui](https://mycalcimc.web.app/)
 
-
+<br>
 <br>
 
 Simples projeto inicial de fundamentos do Flutter.
+
 ### Tecnologias utilizadas:
 
 - setState
 
 
 <br>
+
+💬 [Meu linkedin](https://www.linkedin.com/in/isaias-gon%C3%A7alves-igs/)
 <br>
 
 ##### Outros Projetos Flutter:
