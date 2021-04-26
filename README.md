@@ -14,7 +14,8 @@ Simples projeto inicial de fundamentos do Flutter.
 <br>
 
 💬 [Meu linkedin](https://www.linkedin.com/in/isaias-gon%C3%A7alves-igs/)
-<br>
+
+<hr>
 
 ##### Outros Projetos Flutter:
 ###### [DevQuiz #NLW5 RocketSeat](https://github.com/IsaBass/nlw5_devquiz) (SetState, ValueNotifier, AnimationBuilder, shared_plus)
