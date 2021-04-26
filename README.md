@@ -1,18 +1,33 @@
-# app02_calculadora_imc
+# App Calculadora IMC
+#### App desenvolvido como requisito do curso [Criação de Apps Android e iOS com Flutter - Daniel Ciolfi](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/)
 
-- [Link do projeto no Firebase Hosting](https://mycalcimc.web.app/)
+<br>
 
-A new Flutter project.
+💬 [Meu linkedin](https://www.linkedin.com/in/isaias-gon%C3%A7alves-igs/)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<br>
 
-A few resources to get you started if this is your first Flutter project:
+Simples projeto inicial de fundamentos do Flutter.
+### Tecnologias utilizadas:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- setState
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<br>
+<br>
+
+##### Outros Projetos Flutter:
+###### [DevQuiz #NLW5 RocketSeat](https://github.com/IsaBass/nlw5_devquiz) (SetState, ValueNotifier, AnimationBuilder, shared_plus)
+
+
+<!--
+## Meus Projetos Flutter:
+#### [DevQuiz #NLW5 RocketSeat](https://github.com/IsaBass/nlw5_devquiz)
+- projeto da 5ª NLW , trilha Flutter
+- SetState, ValueNotifier, AnimationBuilder, shared_plus
+<!--
+#### [Calculadora IMC](https://github.com/IsaBass/calcIMC)
+- projeto inicial de aprendizado
+- SetState
+-->
